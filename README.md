@@ -70,4 +70,26 @@ Aquí va el contenido del uso.
 Aquí va el contenido de cómo contribuir.
 
 ## Licencia
-Aquí va la información de la licencia.
+## Miembros del Equipo
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Ignacio Arce</b></td>
+    <td align="center"><b>Felipe Varela</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="C:/Users/Usuario/Downloads/FOTO PERFIL LINKEDIN recortada (1).png" alt="nacho" width="100"/></td>
+    <td align="center"><img src="C:/Users/Usuario/Downloads/felipe.jpeg" alt="felipe" width="100"/></td>
+  </tr>
+  <tr>
+    <td align="center">Data Analyst</td>
+    <td align="center">Data Analyst</td>
+
+  </tr>
+
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/arceignacio/"><img src="C:/Users/Usuario/Downloads/lkd.png" alt="LinkedIn" width="40"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/felipe-varela-miranda/"><img src="C:/Users/Usuario/Downloads/lkd.png" alt="LinkedIn" width="40"/></a></td>
+
+  </tr>
+</table>
