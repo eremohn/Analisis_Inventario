@@ -78,7 +78,7 @@ Aquí va el contenido de cómo contribuir.
     <td align="center"><b>Felipe Varela</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="fotos/FOTO PERFIL LINKEDIN recortada (1).png" alt="nacho" width="100"/></td>
+    <td align="center"><img src="/fotos/hero.png" alt="nacho" width="100"/></td>
     <td align="center"><img src="fotos/felipe.jpeg" alt="felipe" width="100"/></td>
   </tr>
   <tr>
