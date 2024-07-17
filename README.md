@@ -67,7 +67,7 @@ Aquí va las tecnologias que vamos a usar .
 Aquí va el contenido del uso.
 
 ## Espacio a completar
-Aquí va el contenido de cómo contribuir.
+Aquí va el contenido de cómo contribuir..
 
 ## Licencia
 ## Miembros del Equipo
